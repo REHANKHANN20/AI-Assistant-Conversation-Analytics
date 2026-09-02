@@ -1,4 +1,4 @@
-AI Assistant Conversation Analytics — End-to-End Data Engineering Pipeline
+AI Assistant Conversation Analytics — End-to-End Data Engineering Pipeline.
 
 📌 Project Overview
 
