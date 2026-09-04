@@ -102,10 +102,11 @@ The project follows a complete end-to-end data workflow:
                            ▼
                   Recommendations
 
+```
 ## 📊 Power BI Dashboard
 
-![Power BI Dashboard](IMAGE'S/dashboard.png)
+![Power BI Dashboard](images/dashboard.png)
 
 ## 💼 Business Insights & Recommendations
 
-![Business Insights](IMAGE'S/business solution.png)
+![Business Insights](images/business-solution.png)
